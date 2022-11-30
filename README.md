@@ -35,6 +35,16 @@ Manipulate the end effector as per the given configuration. Movement Should Init
 Linear Interpolation
 
 
+![WhatsApp Image 2022-11-29 at 21 12 14](https://user-images.githubusercontent.com/86832944/204812627-009baa25-62e5-46d8-be78-c0e356e767e3.jpg)
+
+![WhatsApp Image 2022-11-29 at 21 12 15](https://user-images.githubusercontent.com/86832944/204813491-aa4c3207-d170-41f9-8894-13670292386d.jpg)
+
+![WhatsApp Image 2022-11-29 at 21 12 16](https://user-images.githubusercontent.com/86832944/204813560-3a1901af-43ee-4256-bec5-0534e31886e1.jpg)
+
+![WhatsApp Image 2022-11-29 at 21 12 17](https://user-images.githubusercontent.com/86832944/204813617-3f86fbd9-35b7-41ae-86fc-9d021a5acbab.jpg)
+
+![WhatsApp Image 2022-11-29 at 21 12 51](https://user-images.githubusercontent.com/86832944/204814360-2c5f53d3-ded6-4ccb-acd4-aed89805f580.jpg)
+
 
 
 
@@ -45,6 +55,9 @@ Circular Interpolation
 
 ### output
 
+![WhatsApp Image 2022-11-29 at 21 12 45](https://user-images.githubusercontent.com/86832944/204814551-a1da7c86-cf62-4a66-ae2c-b589a5d97721.jpg)
+
+![WhatsApp Image 2022-11-29 at 21 12 53](https://user-images.githubusercontent.com/86832944/204814637-5bd49545-d464-4d1a-bb32-d6c1b1601b2e.jpg)
 
 
 
